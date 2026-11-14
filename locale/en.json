@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Scratchpad",
+    "description": "Adds a Scratchpad entry to the left sidebar; it opens a note panel inside the app, and notes stay in this browser."
+  }
+}

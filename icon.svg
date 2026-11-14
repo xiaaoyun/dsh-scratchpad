@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="dsh-scratchpad-ink" gradientUnits="userSpaceOnUse" x1="4" y1="2" x2="60" y2="62">
+      <stop offset="0" stop-color="#4D6BFE"/>
+      <stop offset="0.55" stop-color="#6C7BFF"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="15" fill="url(#dsh-scratchpad-ink)"/>
+  <path d="M23 12h13l9 9v27a4 4 0 0 1-4 4H23a4 4 0 0 1-4-4V16a4 4 0 0 1 4-4Z" fill="#FFFFFF"/>
+  <path d="M36 12v9h9Z" fill="#DCE4FF"/>
+  <path d="M25.5 30h13M25.5 37h13M25.5 44h8" stroke="url(#dsh-scratchpad-ink)" stroke-width="3.2" stroke-linecap="round"/>
+</svg>
